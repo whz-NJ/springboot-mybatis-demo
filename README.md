@@ -20,6 +20,7 @@
 
 * 2018-01-09 更新net.sf.mpxj读取Project文件,示例文件在file包内，sql在sql包内。
 * 2018-01-15 更新net.sf.mpxj从数据库中导出Project的XML文件。
+* 2018-07-13 添加 t_order t_product 表，新增购物场景，演示spring事务嵌套特性。
 
 
 
